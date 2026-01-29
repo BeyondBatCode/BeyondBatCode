@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m a full-stack developer passionate about building e-commerce solutions, both front and back end, with JavaScript, HTML, and CSS. I thrive on problem-solving, optimizing performance, and making things user-friendly. After mastering full-stack, I’m on my way to dive into AI and machine learning because my journey is always beyond the Bat!
+I’m a full-stack developer passionate about building websites, both front and back end. I thrive on problem-solving, optimizing performance, and making things user-friendly. After mastering full-stack, I’m on my way to dive into AI and machine learning because my journey is always beyond the Bat!
 
 
 ## 🌐 Socials:
